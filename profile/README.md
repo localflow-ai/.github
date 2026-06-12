@@ -32,20 +32,21 @@ npm install @localflow/core
 ```
 
 ---
-localflow-examples
 
+### [localflow-examples](https://github.com/localflow-ai/localflow-examples)
 Ready-to-run examples showing metadata-first AI in action — React + TypeScript and plain JavaScript, both built on Vite.
 
-🚀 Live example (React) — load a CSV or Excel file and start asking questions. Your data never leaves the browser.
+🚀 [Live demo](https://apps.localflow.fr/demo/) — load a CSV or Excel file and start asking questions. Your data never leaves the browser.
 
 ---
-localflow-proxy
 
+### [localflow-proxy](https://github.com/localflow-ai/localflow-proxy)
 The production gateway — a zero-trust edge service that sits between the AI sandbox and the outside world. Every outbound API call is explicitly whitelisted, authenticated, and audited. Manages LLM keys server-side, enforces rate limits, and supports PDF extraction, CRM connectors, and custom API integrations.
 
 ---
-Learn more
 
-- 🌐 localflow.fr — website
-- 📄 White paper — deep dive into the metadata-first AI paradigm
-- 💬 contact@localflow.fr
+## Learn more
+
+- 🌐 [localflow.fr](https://localflow.fr) — website
+- 📄 [White paper](https://localflow.fr/LocalFlow%20-%20white%20paper%20-%20en.pdf) — deep dive into the metadata-first AI paradigm
+- 💬 [contact@localflow.fr](mailto:contact@localflow.fr)
